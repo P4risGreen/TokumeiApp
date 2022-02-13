@@ -20,6 +20,5 @@ def titleListUp():
             if element.text.startswith("【"):
                 f.write(element.text.replace('ARuFa・恐山の匿名ラジオ','') + '\n')
         time.sleep(0.5)
-        print(urlnum)
         urlnum += 1
     return 0
