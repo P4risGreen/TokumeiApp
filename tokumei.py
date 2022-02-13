@@ -15,3 +15,5 @@ for i in range(made - nanwa):
     time.sleep(30)
 
 print("おわり")
+
+#なんやねん！！！ああああああああああああ
